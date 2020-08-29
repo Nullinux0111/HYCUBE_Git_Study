@@ -7,5 +7,6 @@ Please write your name below.
 |-------|-------|
 |백홍열|1학년|
 |백명규|-학년|
+|백일규|-학년|
 
 update Issue
