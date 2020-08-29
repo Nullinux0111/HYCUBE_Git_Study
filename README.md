@@ -5,6 +5,6 @@ Please write your name below.
 
 |Name|Grade|
 |-------|-------|
-|백홍열|1|
+|백홍열|1학년|
 
 update Issue
